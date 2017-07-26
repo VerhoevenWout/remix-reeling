@@ -1,0 +1,15 @@
+/*
+Theme Name: Fergus Remix Theme
+Theme URI:
+Description: Fergus Remix Theme
+Author: Wout Verhoeven
+Author URI: http://www.verhoevenwout.be
+Version: 1.0
+Tags:
+*/
+
+@import "assets/css/bootstrap.css";
+@import "assets/css/font-awesome.min.css";
+@import "assets/css/hamburger.css";
+@import "assets/css/screen.css";
+/*@import "assets/css/style-common.css";*/
